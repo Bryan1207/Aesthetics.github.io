@@ -118,6 +118,9 @@ nav a:hover, nav a:active {
         right: 15px;
         top: 10px;
     }
+    nav a {
+        color: lightblue;
+    }
 }
 
 @media only screen and (max-width : 320px) {
