@@ -92,6 +92,9 @@ nav a:hover, nav a:active {
         width: 100%;
         text-indent: 25px;
     }
+    img {
+        display: none;
+    }
 }
 
 @media only screen and (max-width : 480px) {
@@ -120,6 +123,9 @@ nav a:hover, nav a:active {
     }
     nav a {
         color: lightblue;
+    }
+    img {
+        display: none;
     }
 }
 
